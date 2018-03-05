@@ -1,0 +1,33 @@
+    1  ls
+    2  3-1emiton/
+    3  cd 3-1emiton/
+    4  ls
+    5  cd ..
+    6  ls
+    7  cd workspace
+    8  cd 3-1emiton
+    9  3-1alves
+   10  cd 3-1alves
+   11  ls
+   12  vi my2ndfile.txt 
+   13  history 
+   14  ls
+   15  cat history > emiton-alves-history.txt
+   16  ls
+   17  cat emiton-alves-history.txt 
+   18  cat history > emiton-alves-history.txt 
+   19  history 
+   20  touch myTestFile
+   21  ls
+   22  rm myTestFile 
+   23  ls
+   24  touch myTestFile.txt
+   25  cat myTestFile.txt 
+   26  vi myTestFile.txt 
+   27  ls
+   28  cat myTestFile.txt 
+   29  cat history > myTestFile.txt 
+   30  cat history >> myTestFile.txt 
+   31  history > myTestFile.txt 
+   32  cat myTestFile.txt 
+   33  history > emiton-alves-history.txt 
